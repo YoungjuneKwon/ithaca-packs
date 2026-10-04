@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "latest": null,
-  "updatedAt": null
+  "latest": {
+    "version": 1,
+    "name": "cutins+gods",
+    "bytes": 5821802,
+    "sha256": "9efc81c67606a071e378df4c487ba5111f74e6f59271841ae744c4a883e6dcb8",
+    "files": 42,
+    "url": "https://drive.google.com/uc?export=download&id=11Zu0sLpWH23mYJdsrKs4rjkm4y6EGIzO",
+    "webUrl": "https://ithaca.proveri.ai/packs/pack-v1.zip"
+  },
+  "minApp": "1.0.0",
+  "updatedAt": "2026-10-04T23:24:54Z"
 }
