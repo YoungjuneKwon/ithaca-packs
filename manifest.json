@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "latest": {
-    "version": 4,
+    "version": 5,
     "name": "cutins+gods+bgm+voice",
-    "bytes": 8921086,
-    "sha256": "dbb619de18559b01fd4cef000f262009541fdc68de44104815dfaefa3da48a41",
+    "bytes": 8920364,
+    "sha256": "1a9e90bffa2117d526db3f13f0903abcd8cd279cc67e98e75d7e8a20dcc34363",
     "files": 70,
-    "url": "https://drive.google.com/uc?export=download&id=1Q_UNepSC2bvcPzHU6-e_YbL9wpXk-49i",
-    "webUrl": "https://ithaca.proveri.ai/packs/pack-v4.zip"
+    "url": "https://drive.google.com/uc?export=download&id=1FjTBDW8ZQsstRf32XKlO48tBAOfnI0Fa",
+    "webUrl": "https://ithaca.proveri.ai/packs/pack-v5.zip"
   },
   "minApp": "1.0.0",
-  "updatedAt": "2026-10-06T07:39:33Z"
+  "updatedAt": "2026-10-06T11:37:38Z"
 }
