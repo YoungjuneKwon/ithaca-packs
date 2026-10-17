@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "latest": {
-    "version": 5,
-    "name": "cutins+gods+bgm+voice",
-    "bytes": 8920364,
-    "sha256": "1a9e90bffa2117d526db3f13f0903abcd8cd279cc67e98e75d7e8a20dcc34363",
-    "files": 70,
-    "url": "https://drive.google.com/uc?export=download&id=1FjTBDW8ZQsstRf32XKlO48tBAOfnI0Fa",
-    "webUrl": "https://ithaca.winm2m.com/packs/pack-v5.zip"
+    "version": 6,
+    "name": "cutins+gods+bgm+voice+voice/ja",
+    "bytes": 9359580,
+    "sha256": "898d7ffa9126a54a344218afd1d99146ae1f9322422a6392bcf157b41c1286bc",
+    "files": 91,
+    "url": "https://drive.google.com/uc?export=download&id=1lRcqqGy0FYf6S-1prPq4kce6mhznPFSR",
+    "webUrl": "https://ithaca.winm2m.com/packs/pack-v6.zip"
   },
   "minApp": "1.0.0",
-  "updatedAt": "2026-10-07T07:07:24Z"
+  "updatedAt": "2026-10-17T06:12:37Z"
 }
